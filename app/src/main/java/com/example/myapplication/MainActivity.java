@@ -22,4 +22,7 @@ public class MainActivity extends AppCompatActivity {
     protected void test3(){
 
     }
+    protected void test4(){
+
+    }
 }
