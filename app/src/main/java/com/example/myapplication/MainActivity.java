@@ -16,4 +16,10 @@ public class MainActivity extends AppCompatActivity {
     protected void test(){
 
     }
+    protected void test2(){
+
+    }
+    protected void test3(){
+
+    }
 }
